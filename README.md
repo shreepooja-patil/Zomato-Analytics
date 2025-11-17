@@ -51,13 +51,7 @@ Customer segmentation visuals
 
 📌 Project Purpose
 
-This project demonstrates:
-
-Data cleaning
-
-Data modeling
-
-KPI creation
+This project demonstrates: Data cleaning,  Data modeling, KPI creation.
 
 Business insights
 
