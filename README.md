@@ -17,7 +17,7 @@ Power BI (Dashboards & visualizations), Excel (Data cleaning & preprocessing), S
 
 🔧 Steps Performed
 
-Data Cleaning
+Data Cleaning 
 Removed NULL values
 Standardized city names
 Cleaned ratings column
