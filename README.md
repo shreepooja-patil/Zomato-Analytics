@@ -18,35 +18,17 @@ Power BI (Dashboards & visualizations), Excel (Data cleaning & preprocessing), S
 🔧 Steps Performed
 
 Data Cleaning
-
 Removed NULL values
-
 Standardized city names
-
 Cleaned ratings column
-
 Formatted date/time
-
 Data Transformation
-
 Created DAX measures
-
 Added KPI metrics
-
 Created calculated columns for month, week, and peak hours
-
 Dashboard Creation
-
 KPI cards
-
-Donut chart
-
-Bar chart
-
-Line chart
-
-Map chart
-
+Various charts
 Customer segmentation visuals
 
 📌 Project Purpose
